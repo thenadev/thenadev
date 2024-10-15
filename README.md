@@ -17,12 +17,14 @@ I'm a **Senior Fullstack Developer** passionate about building high-quality, pra
 
 ### 📈 My GitHub Stats
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasschwabauer&show_icons=true&theme=radical)
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenadev&show_icons=true&theme=radical)
 
 ### 🚀 Projects
 
 - [🌐 Online Planning Poker](https://www.online-planning-poker.de) - Free Online Planning Poker tool using **Next.js** and **Firebase**.
 - [🔄 MyDex (Decentralized Exchange)](https://my-o2wznex4e-tjoooobooo.vercel.app) - Full DEX on **Sepolia Testnet**, including Solidity smart contracts.
+- [🖥️ Portfolio Website](https://www.thomas-schwabauer.de) - Personal website showcasing my projects and experience.
+
 
 ### 🔗 Let's Connect!
 
