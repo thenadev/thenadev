@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Thomas Schwabauer 👋
 
-<!--
-**thenadev/thenadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Fullstack Developer** passionate about building high-quality, practical solutions with modern technologies. My expertise lies in **React**, **Angular**, **Spring Boot**, **Java**, **Flutter**, and more. 
 
-Here are some ideas to get you started:
+🌍 I'm based in **Wetzlar, Germany**  
+💼 Currently working as a **Freelancer** specializing in web and mobile app development  
+🌱 Learning more about **Blockchain Development** and **Cloud Architecture**  
+👯 I’m open to collaborating on **open source projects** or interesting **freelance gigs**  
+📫 Reach me via [LinkedIn](https://linkedin.com/in/thomas-schwabauer) or visit my [website](https://www.thomas-schwabauer.de)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack
+
+- **Frontend**: React, Angular, TypeScript, Flutter
+- **Backend**: Spring Boot, Node.js, PHP (Laravel)
+- **DevOps**: Docker, Kubernetes
+- **Cloud**: Firebase, AWS, Google Cloud
+
+### 📈 My GitHub Stats
+
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasschwabauer&show_icons=true&theme=radical)
+
+### 🚀 Projects
+
+- [🌐 Online Planning Poker](https://www.online-planning-poker.de) - Free Online Planning Poker tool using **Next.js** and **Firebase**.
+- [🔄 MyDex (Decentralized Exchange)](https://my-o2wznex4e-tjoooobooo.vercel.app) - Full DEX on **Sepolia Testnet**, including Solidity smart contracts.
+
+### 🔗 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/thomas-schwabauer)
+- [Twitter](https://twitter.com/your_twitter_handle)
+- [GitHub Portfolio](https://github.com/thomasschwabauer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=thomasschwabauer&color=blue)
