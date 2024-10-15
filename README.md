@@ -28,8 +28,8 @@ I'm a **Senior Fullstack Developer** passionate about building high-quality, pra
 
 ### 🔗 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/thomas-schwabauer)
-- [Twitter](https://twitter.com/your_twitter_handle)
-- [GitHub Portfolio](https://github.com/thomasschwabauer)
+- [LinkedIn](https://www.linkedin.com/in/thomas-schwabauer-a3a525163/)
+- [Twitter](https://x.com/ThenaDev)
+- [GitHub Portfolio](https://github.com/thenadev)
 
-![Profile Views](https://komarev.com/ghpvc/?username=thomasschwabauer&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=thenadev&color=blue)
