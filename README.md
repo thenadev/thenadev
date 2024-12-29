@@ -5,7 +5,7 @@ I'm a **Senior Fullstack Developer** passionate about building high-quality, pra
 🌍 I'm based in **Wetzlar, Germany**  
 💼 Currently working as a **Freelancer** specializing in web and mobile app development  
 🌱 Learning more about **Blockchain Development** and **Cloud Architecture**  
-👯 I’m open to collaborating on **open source projects** or interesting **freelance gigs**  
+👯 I’m open to collaborate on **open source projects** or interesting **freelance gigs**  
 📫 Reach me via [LinkedIn](https://linkedin.com/in/thomas-schwabauer) or visit my [website](https://www.thomas-schwabauer.de)
 
 ### ⚡ Tech Stack
