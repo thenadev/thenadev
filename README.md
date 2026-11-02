@@ -1,35 +1,43 @@
-# Hi there, I'm Thomas Schwabauer 👋
+# Hi, I'm Thomas 👋
 
-I'm a **Senior Fullstack Developer** passionate about building high-quality, practical solutions with modern technologies. My expertise lies in **React**, **Angular**, **Spring Boot**, **Java**, **Flutter**, and more. 
+Fullstack developer from **Wetzlar, Germany**, running **[ThenaDev](https://thenadev.de)**: websites, apps and web tools for small and mid-sized businesses in Mittelhessen and beyond, at a fixed price.
 
-🌍 I'm based in **Wetzlar, Germany**  
-💼 Currently working as a **Freelancer** specializing in web and mobile app development  
-🌱 Learning more about **Blockchain Development** and **Cloud Architecture**  
-👯 I’m open to collaborate on **open source projects** or interesting **freelance gigs**  
-📫 Reach me via [LinkedIn](https://linkedin.com/in/thomas-schwabauer) or visit my [website](https://www.thomas-schwabauer.de)
+- 🌐 Websites for local businesses, built with Next.js and a strong focus on SEO, performance and accessibility
+- 📱 Apps for iOS and Android with Flutter
+- 🛠️ Custom web tools, hosting and maintenance
+- 🤖 AI-assisted development with coding agents as part of my daily workflow
 
-### ⚡ Tech Stack
+### 🚀 Own products
 
-- **Frontend**: React, Angular, TypeScript, Flutter
-- **Backend**: Spring Boot, Node.js, PHP (Laravel)
-- **DevOps**: Docker, Kubernetes
-- **Cloud**: Firebase, AWS, Google Cloud
+- **[Ringgestalter](https://ringgestalter.de)**: 3D ring configurator for jewelers, so customers can design wedding rings online and request a price
+- **[PhysiqueForge](https://physiqueforge.de)**: fitness app for iOS and Android, App Store launch in preparation
 
-### 📈 My GitHub Stats
+### 🏗️ Recent client work
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenadev&show_icons=true&theme=radical)
+| Client | What | Link |
+|---|---|---|
+| MSD Nickel | Website with interactive scroll scene, SEO, search campaigns | [msd-nickel.de](https://msd-nickel.de) |
+| TRICON GmbH | Website with emergency hotline, careers section, 16 local SEO pages | [tricon-gmbh.de](https://www.tricon-gmbh.de) |
+| Physiotherapie Christian André | Website with 14 therapy pages and multi-step contact form | [physio-andre.de](https://www.physio-andre.de) |
+| GoldeneRinge.de | Shopify theme work and hosting migration | [goldeneringe.de](https://goldeneringe.de) |
 
-### 🚀 Projects
+### ⚡ Tech stack
 
-- [🌐 Online Planning Poker](https://www.online-planning-poker.de) - Free Online Planning Poker tool using **Next.js** and **Firebase**.
-- [🔄 MyDex (Decentralized Exchange)](https://my-o2wznex4e-tjoooobooo.vercel.app) - Full DEX on **Sepolia Testnet**, including Solidity smart contracts.
-- [🖥️ Portfolio Website](https://www.thomas-schwabauer.de) - Personal website showcasing my projects and experience.
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Angular
+- **Mobile**: Flutter, Dart
+- **Backend**: Node.js, Java / Spring Boot, Python
+- **E-commerce**: Shopify (Liquid)
+- **Ops**: Docker, CI with GitHub Actions
+- **Also**: test automation (Playwright), Godot for game side projects
 
+### 🧭 Background
 
-### 🔗 Let's Connect!
+- B.Sc. Computer Science, Technische Hochschule Mittelhessen
+- Software testing and development at Alcedis GmbH (2018–2023)
+- Consultant at Valtech Mobility (2023–2024)
+- CTO at Amsel UG (since 2023)
+- Self-employed since 2024, today as ThenaDev
 
-- [LinkedIn](https://www.linkedin.com/in/thomas-schwabauer-a3a525163/)
-- [Twitter](https://x.com/ThenaDev)
-- [GitHub Portfolio](https://github.com/thenadev)
+### 📫 Contact
 
-![Profile Views](https://komarev.com/ghpvc/?username=thenadev&color=blue)
+[thenadev.de](https://thenadev.de) · [LinkedIn](https://www.linkedin.com/in/thomas-schwabauer-a3a525163/) · [X](https://x.com/ThenaDev)
